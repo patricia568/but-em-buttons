@@ -8,10 +8,18 @@ body {
 }
 
 .content {
-  top: 20em;
 
 }
 
 h1, p {
   filter: drop-shadow(2px 2px 10px rgba(255, 255, 255, .7));
+}
+
+.btn {
+  color: #90ccc3;
+  border: solid 2px #90ccc3;
+}
+
+.rocket {
+  background-image: url(../images/rocket.svg);
 }
