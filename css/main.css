@@ -5,10 +5,13 @@ html {
 
 body {
   background-image: url("../images/starfield.png");
-  position: relative;
 }
 
 .content {
-  position: absolute;
-  top: 12em;
+  top: 20em;
+
+}
+
+h1, p {
+  filter: drop-shadow(2px 2px 10px rgba(255, 255, 255, .7));
 }
