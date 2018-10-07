@@ -14,8 +14,11 @@ h1, p {
 .btn {
   color: #90ccc3;
   border: solid 2px #90ccc3;
+  padding-left: 0;
+  padding-right: 0;
 }
 
-.rocket {
-  background-image: url(../images/rocket.svg);
+.inner-box {
+  border-bottom: solid 2px #90ccc3;
+  height: 40px;
 }
